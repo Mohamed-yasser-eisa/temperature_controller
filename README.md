@@ -1,6 +1,6 @@
 # temperature_controller
 
-build date of this project: (20 June, 2021)
+Build date: (20 June, 2021)
 
 This project was an individual task required from me in Embedded Systems class.
 
