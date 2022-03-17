@@ -2,6 +2,8 @@
 
 build date of this project: (20 June, 2021)
 
+This project was an individual task required from me in Embedded Systems class.
+
 1- Project description:
 
     This Embedded System is designed to provide a temperature controlled 
@@ -25,19 +27,8 @@ build date of this project: (20 June, 2021)
     its different states, and the design pattern used in the project.
     3.4- (project_statement) this pdf file contains the description of the requirements of this project.
 
-
-
 4- Video:
 
     part_1: (https://youtu.be/nrk697hqu74).
     part_2: (https://youtu.be/N7zUCcPhzl0).
-
-
-
-
-
-
-
-
-
 
