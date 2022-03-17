@@ -23,6 +23,7 @@ build date of this project: (20 June, 2021)
     used in this projest, and the main code of the application.
     3.3- (system_design) this pdf file contains the description of the system and 
     its different states, and the design pattern used in the project.
+    3.4- (project_statement) this pdf file contains the description of the requirements of this project.
 
 
 
